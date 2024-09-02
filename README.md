@@ -4,11 +4,14 @@
 In today's financial markets, quickly interpreting and acting on news can be crucial for investment and decision-making. This project focuses on sentiment analysis of financial news articles to understand market sentiment and predict potential market movements. By applying various data preprocessing, machine learning, and sentiment analysis techniques, this project aims to provide valuable insights into market trends.
 
 ## Dataset
+(csv file present inside the "financial_s_a" folder)
+
 The dataset used for this project is a CSV file containing financial news articles. Each row in the dataset represents a news article with its associated sentiment label:
 * Columns:
   * neutral: The sentiment label of the news article (neutral, negative, positive).
   * News: The content of the financial news article.
 ## Project Structure
+(present inside the "financial_s_a" folder)
 The main jupyter notebook contains the structure of the workflow.
 ## Key Steps
 
