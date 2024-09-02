@@ -43,4 +43,5 @@ Contributions to this project are welcome! If you have suggestions, improvements
 * Create a Branch: Make a new branch for your changes.
 * Make Changes: Implement your changes and test thoroughly.
 * Submit a Pull Request: Push your changes to your forked repository and create a pull request to merge them into the main repository.
-Feel free to reach out with any questions or suggestions via [email/contact information].
+
+Feel free to reach out with any questions or suggestions via [bhavanavolati04@gmail.com].
